@@ -6,7 +6,7 @@ permissions:
   security-events: write
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "master", "jacek-lab02" ]
   pull_request:
     branches: [ "master" ]
 
